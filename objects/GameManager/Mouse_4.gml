@@ -1,0 +1,1 @@
+MainCharacter.speed = 3;
