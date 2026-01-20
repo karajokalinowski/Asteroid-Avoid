@@ -1,6 +1,6 @@
 {
   "$GMProject":"v1",
-  "%Name":"Blank Pixel Game",
+  "%Name":"Asteroid Avoid",
   "AudioGroups":[
     {"$GMAudioGroup":"v1","%Name":"audiogroup_default","exportDir":"","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
   ],
@@ -23,7 +23,7 @@
   "MetaData":{
     "IDEVersion":"2024.14.2.213",
   },
-  "name":"Blank Pixel Game",
+  "name":"Asteroid Avoid",
   "resources":[
     {"id":{"name":"FontMenuScore","path":"fonts/FontMenuScore/FontMenuScore.yy",},},
     {"id":{"name":"FontScore","path":"fonts/FontScore/FontScore.yy",},},
