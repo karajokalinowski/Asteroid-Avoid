@@ -31,6 +31,6 @@ if (global.game_state == GAME_STATE_UNPAUSED) {
 
 if (!music_started && audio_system_is_available()) {
 	audio_play_sound(sndMusic,0,true);	
-	audio_play_sound(sndJetpack,1,false);
+	if (os_browser != browser_not_a_browser) audio_play_sound(sndJetpack,1,false);
 	music_started = true;
 }
