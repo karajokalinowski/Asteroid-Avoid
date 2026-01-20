@@ -12,7 +12,6 @@ game_width  = 360;
 game_height = 640;
 asteroid_timer = ASTEROID_TIMER;
 music_started = false;
-window_set_fullscreen(true);
 
 
 global.player_score = 0;
